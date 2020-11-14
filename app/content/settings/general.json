@@ -1,7 +1,7 @@
 {
   "title": "Home",
   "titleTemplate": "| Alex Eding",
-  "welcomeText": "# Yo, I'm Alex Eding - an Actor, Voice Actor, Stage Performer, Improvisational Comedian, and Musician based in Dallas, Texas.\n\nCheck out my [demos](/demo) and [credits](credits). Drop me a line if you have a role or job that I'd be perfect for.",
+  "welcomeText": "# Yo, I'm Alex Eding - an Actor, Voice Actor, Stage Performer, Improvisational Comedian, and Musician based in Dallas, Texas.\n\nCheck out my [demos](/demo) and [credits](/credits). Drop me a line if you have a role or job that I'd be perfect for.",
   "logo": "/images/uploads/logo.svg",
   "icon": "/images/uploads/logo.png",
   "loadingColor": "#0b3765",
